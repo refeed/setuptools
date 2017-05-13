@@ -227,8 +227,6 @@ Credits
   maintainer of setuptools. The project is maintained in coordination with
   the Python Packaging Authority (PyPA) and the larger Python community.
 
-.. _files:
-
 
 ---------------
 Code of Conduct
